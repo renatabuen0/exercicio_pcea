@@ -1,3 +1,3 @@
 # exercicio_pcea
 
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+## Esse código define uma função chamada soma em Python, que recebe dois parâmetros, e e b, e retorna a soma desses dois valores. 
